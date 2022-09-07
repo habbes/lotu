@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "klTlU5v04ykzm0ZcO9PPmrEZu2uE8StlefHag7xm3LIUotMoUIwcY4RKxR9I1y9i1o7VvhrjcoepFuWegsR0Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaningari\\Desktop\\lotu\\API\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaningari\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
